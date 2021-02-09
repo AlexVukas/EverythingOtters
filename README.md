@@ -1,2 +1,2 @@
-# EverythingOtters
-Website mockup for Ryerson New Media application.
+# HTML/CSS Website
+Mockup Website for my Ryerson New Media application.
